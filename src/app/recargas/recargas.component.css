@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(84, 175, 255);
+  }
+  
+  form {
+    /* Agrega estilos adicionales para el formulario si es necesario */
+  }
+  
+  /* Agrega estilos adicionales para los elementos del formulario si es necesario */
+  
